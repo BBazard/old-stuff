@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="bullet.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="100" topLine="0" />
+	</File>
+	<File name="bullet.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="constante.hpp" open="1" top="0" tabpos="9">
+		<Cursor position="141" topLine="0" />
+	</File>
+	<File name="enemy.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="318" topLine="0" />
+	</File>
+	<File name="enemy.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="frame.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="202" topLine="16" />
+	</File>
+	<File name="frame.hpp" open="0" top="0" tabpos="2">
+		<Cursor position="415" topLine="0" />
+	</File>
+	<File name="functions.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="2879" topLine="67" />
+	</File>
+	<File name="horde.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="412" topLine="0" />
+	</File>
+	<File name="horde.hpp" open="1" top="0" tabpos="7">
+		<Cursor position="40" topLine="0" />
+	</File>
+	<File name="imageManager.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="59" topLine="0" />
+	</File>
+	<File name="imageManager.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="167" topLine="0" />
+	</File>
+	<File name="level.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="114" topLine="0" />
+	</File>
+	<File name="level.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="208" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="143" topLine="0" />
+	</File>
+	<File name="map.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="342" topLine="0" />
+	</File>
+	<File name="map.hpp" open="0" top="0" tabpos="10">
+		<Cursor position="570" topLine="5" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="5590" topLine="0" />
+	</File>
+	<File name="player.hpp" open="1" top="0" tabpos="12">
+		<Cursor position="360" topLine="1" />
+	</File>
+	<File name="playerBody.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="1799" topLine="39" />
+	</File>
+	<File name="playerBody.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="128" topLine="0" />
+	</File>
+	<File name="stats.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="2676" topLine="75" />
+	</File>
+	<File name="stats.hpp" open="0" top="0" tabpos="12">
+		<Cursor position="678" topLine="16" />
+	</File>
+	<File name="world.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="380" topLine="0" />
+	</File>
+	<File name="world.hpp" open="0" top="0" tabpos="11">
+		<Cursor position="953" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

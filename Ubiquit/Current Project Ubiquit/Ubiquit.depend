@@ -1,0 +1,966 @@
+# depslib dependency file v1.0
+1309705539 source:c:\users\propriétaire\desktop\jeux\projet\ubiquit\main.cpp
+	<iostream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1309779220 source:c:\users\propriétaire\desktop\jeux\projet\ubiquit\sources\main.cpp
+	<iostream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"C:\Users\Propriétaire\Desktop\Jeux\Projet\Ubiquit\Headers\constante.hpp"
+
+1309776796 c:\users\propriétaire\desktop\jeux\projet\ubiquit\headers\constante.hpp
+
+1309775638 source:c:\users\propriétaire\desktop\jeux\projet\ubiquit\test.cpp
+	"C:\Users\Propriétaire\Desktop\Jeux\Projet\Ubiquit\Headers\constante.hpp"
+
+1309779746 source:c:\users\propriétaire\desktop\jeux\projet\ubiquit\bla.rc
+
+1310071200 source:d:\documents\jeux\projet\ubiquit\sources\main.cpp
+	<iostream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"D:\Documents\Jeux\Projet\Ubiquit\Headers\constante.hpp"
+
+1309776798 d:\documents\jeux\projet\ubiquit\headers\constante.hpp
+
+1312116863 source:d:\documents\projet\ubiquit\sources\main.cpp
+	<iostream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1312134969 source:d:\documents\projet\ubiquit\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"math.h"
+	"constante.hpp"
+
+1312128467 d:\documents\projet\ubiquit\constante.hpp
+
+1315133723 source:d:\documents\projet\ubiquit\current project ubiquit\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"player.hpp"
+	"horde.hpp"
+
+1324679365 d:\documents\projet\ubiquit\current project ubiquit\constante.hpp
+	<SFML/Graphics.hpp>
+
+1324680609 source:d:\documents\projet\ubiquit\current project ubiquit\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1314015746 d:\documents\projet\ubiquit\current project ubiquit\player.hpp
+	"bullet.hpp"
+	"playerBody.hpp"
+	"frame.hpp"
+	"stats.hpp"
+
+1315133288 source:d:\documents\projet\ubiquit\current project ubiquit\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"horde.hpp"
+	"level.hpp"
+
+1314050699 source:d:\documents\projet\ubiquit\current project ubiquit\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1314050699 d:\documents\projet\ubiquit\current project ubiquit\bullet.hpp
+	"constante.hpp"
+
+1312712703 source:d:\documents\projet\ubiquit\current project ubiquit\tile.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"tile.hpp"
+
+1312907340 d:\documents\projet\ubiquit\current project ubiquit\tile.hpp
+	"constante.hpp"
+
+1314221522 source:d:\documents\projet\ubiquit\current project ubiquit\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"level.hpp"
+
+1314221522 d:\documents\projet\ubiquit\current project ubiquit\level.hpp
+	"constante.hpp"
+	"world.hpp"
+	"map.hpp"
+	"imageManager.hpp"
+
+1313760054 source:d:\documents\projet\ubiquit\current project ubiquit\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1313761850 d:\documents\projet\ubiquit\current project ubiquit\environ.hpp
+
+1312537464 source:d:\documents\projet\ubiquit\tests\test collision des balles\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1312537464 d:\documents\projet\ubiquit\tests\test collision des balles\environ.hpp
+	"constante.hpp"
+
+1312490518 d:\documents\projet\ubiquit\tests\test collision des balles\constante.hpp
+
+1312537505 source:d:\documents\projet\ubiquit\tests\test collision des balles\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312537464 d:\documents\projet\ubiquit\tests\test collision des balles\player.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"bullet.hpp"
+	"level.hpp"
+
+1312537017 d:\documents\projet\ubiquit\tests\test collision des balles\bullet.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+
+1312498221 d:\documents\projet\ubiquit\tests\test collision des balles\level.hpp
+	"tile.hpp"
+
+1312478743 d:\documents\projet\ubiquit\tests\test collision des balles\tile.hpp
+	"constante.hpp"
+
+1312498891 source:d:\documents\projet\ubiquit\tests\test collision des balles\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"level.hpp"
+
+1312537464 source:d:\documents\projet\ubiquit\tests\test collision des balles\main.cpp
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+	"level.hpp"
+	"player.hpp"
+	"constante.hpp"
+
+1312478229 source:d:\documents\projet\ubiquit\tests\test collision des balles\tile.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"tile.hpp"
+
+1312537526 source:d:\documents\projet\ubiquit\tests\test collision des balles\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1312538116 source:d:\documents\projet\ubiquit\tests\test collision des balles\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+
+1312546278 source:d:\documents\projet\ubiquit\current project ubiquit\player.frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+
+1312537464 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1312537464 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\environ.hpp
+	"constante.hpp"
+
+1312548868 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\constante.hpp
+
+1312665847 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312665847 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\player.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"bullet.hpp"
+	"level.hpp"
+	"frame.hpp"
+	"playerBody.hpp"
+
+1312666111 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\bullet.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+
+1312549999 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\level.hpp
+	"tile.hpp"
+
+1312478743 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\tile.hpp
+	"constante.hpp"
+
+1312660189 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"level.hpp"
+
+1312665847 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\main.cpp
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+	"level.hpp"
+	"player.hpp"
+	"constante.hpp"
+
+1312666714 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+
+1312658216 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\tile.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"tile.hpp"
+
+1312666131 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1312640045 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\frame.hpp
+	<SFML/Graphics.hpp>
+
+1312640045 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312551662 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\bullet.cpp
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1312549999 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\level.hpp
+	"tile.hpp"
+
+1312478743 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\tile.hpp
+	"constante.hpp"
+
+1312548868 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\constante.hpp
+
+1312551662 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\bullet.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+
+1312537464 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1312537464 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\environ.hpp
+	"constante.hpp"
+
+1312640045 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312640045 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\frame.hpp
+	<SFML/Graphics.hpp>
+
+1312639588 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312649961 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\player.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"bullet.hpp"
+	"level.hpp"
+	"frame.hpp"
+	"playerBody.hpp"
+
+1312652035 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\playerbody.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"level.hpp"
+
+1312658440 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"level.hpp"
+
+1312659841 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\main.cpp
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+	"level.hpp"
+	"player.hpp"
+	"constante.hpp"
+
+1312658018 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+
+1312658216 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\tile.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"tile.hpp"
+
+1312659909 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied + super classe pour encapsuler\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312652035 d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\playerbody.hpp
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"level.hpp"
+
+1312666647 source:d:\documents\projet\ubiquit\test\detache corps en tete, corps, pied\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"constante.hpp"
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312822469 source:d:\documents\projet\ubiquit\current project ubiquit\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312822469 d:\documents\projet\ubiquit\current project ubiquit\frame.hpp
+
+1314033059 d:\documents\projet\ubiquit\current project ubiquit\playerbody.hpp
+
+1314033059 source:d:\documents\projet\ubiquit\current project ubiquit\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312712479 source:d:\documents\projet\ubiquit\test temps\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1312712320 d:\documents\projet\ubiquit\test temps\level.hpp
+	"tile.hpp"
+
+1312712161 d:\documents\projet\ubiquit\test temps\tile.hpp
+	"constante.hpp"
+
+1312722770 d:\documents\projet\ubiquit\test temps\constante.hpp
+
+1312712351 d:\documents\projet\ubiquit\test temps\bullet.hpp
+
+1312712497 source:d:\documents\projet\ubiquit\test temps\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1312712341 d:\documents\projet\ubiquit\test temps\environ.hpp
+
+1312640045 source:d:\documents\projet\ubiquit\test temps\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312712307 d:\documents\projet\ubiquit\test temps\frame.hpp
+
+1312725515 source:d:\documents\projet\ubiquit\test temps\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312725504 d:\documents\projet\ubiquit\test temps\player.hpp
+	"bullet.hpp"
+	"playerBody.hpp"
+	"frame.hpp"
+
+1312720846 d:\documents\projet\ubiquit\test temps\playerbody.hpp
+
+1312712588 source:d:\documents\projet\ubiquit\test temps\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"level.hpp"
+
+1312725190 source:d:\documents\projet\ubiquit\test temps\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+
+1312721234 source:d:\documents\projet\ubiquit\test temps\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312712703 source:d:\documents\projet\ubiquit\test temps\tile.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"tile.hpp"
+
+1312724876 source:d:\documents\projet\ubiquit\test temps\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+	"level.hpp"
+	"player.hpp"
+
+1312712479 source:d:\documents\projet\ubiquit\tests\test animation\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1312795371 d:\documents\projet\ubiquit\tests\test animation\level.hpp
+	"tile.hpp"
+
+1312712161 d:\documents\projet\ubiquit\tests\test animation\tile.hpp
+	"constante.hpp"
+
+1312722770 d:\documents\projet\ubiquit\tests\test animation\constante.hpp
+
+1312712351 d:\documents\projet\ubiquit\tests\test animation\bullet.hpp
+
+1312712497 source:d:\documents\projet\ubiquit\tests\test animation\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1312712341 d:\documents\projet\ubiquit\tests\test animation\environ.hpp
+
+1312748002 source:d:\documents\projet\ubiquit\tests\test animation\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312795371 d:\documents\projet\ubiquit\tests\test animation\player.hpp
+	"bullet.hpp"
+	"playerBody.hpp"
+	"frame.hpp"
+
+1312796431 d:\documents\projet\ubiquit\tests\test animation\playerbody.hpp
+
+1312730861 d:\documents\projet\ubiquit\tests\test animation\frame.hpp
+
+1312795371 source:d:\documents\projet\ubiquit\tests\test animation\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"level.hpp"
+
+1312756694 source:d:\documents\projet\ubiquit\tests\test animation\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+	"level.hpp"
+	"player.hpp"
+
+1312796042 source:d:\documents\projet\ubiquit\tests\test animation\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312795609 source:d:\documents\projet\ubiquit\tests\test animation\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312712703 source:d:\documents\projet\ubiquit\tests\test animation\tile.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"tile.hpp"
+
+1312730861 source:d:\documents\projet\ubiquit\tests\test animation\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312712479 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1312795371 d:\documents\projet\ubiquit\tests\test collision bras ligne\level.hpp
+	"tile.hpp"
+
+1312712161 d:\documents\projet\ubiquit\tests\test collision bras ligne\tile.hpp
+	"constante.hpp"
+
+1312722770 d:\documents\projet\ubiquit\tests\test collision bras ligne\constante.hpp
+
+1312712351 d:\documents\projet\ubiquit\tests\test collision bras ligne\bullet.hpp
+
+1312712497 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1312712341 d:\documents\projet\ubiquit\tests\test collision bras ligne\environ.hpp
+
+1312730861 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312730861 d:\documents\projet\ubiquit\tests\test collision bras ligne\frame.hpp
+
+1312748002 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312814210 d:\documents\projet\ubiquit\tests\test collision bras ligne\player.hpp
+	"bullet.hpp"
+	"playerBody.hpp"
+	"frame.hpp"
+
+1312822222 d:\documents\projet\ubiquit\tests\test collision bras ligne\playerbody.hpp
+
+1312795371 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"level.hpp"
+
+1312821699 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+	"level.hpp"
+	"player.hpp"
+
+1312712703 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\tile.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"tile.hpp"
+
+1312822119 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312822185 source:d:\documents\projet\ubiquit\tests\test collision bras ligne\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312824699 d:\documents\projet\ubiquit\current project ubiquit\power.hpp
+
+1312824602 source:d:\documents\projet\ubiquit\current project ubiquit\power.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Power.hpp"
+
+1312828499 source:d:\documents\projet\ubiquit\test map\environ.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+
+1312905190 d:\documents\projet\ubiquit\test map\environ.hpp
+
+1312822469 source:d:\documents\projet\ubiquit\test map\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312822469 d:\documents\projet\ubiquit\test map\frame.hpp
+
+1312823532 source:d:\documents\projet\ubiquit\test map\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+	"environ.hpp"
+
+1312831200 d:\documents\projet\ubiquit\test map\player.hpp
+	"bullet.hpp"
+	"playerBody.hpp"
+	"frame.hpp"
+	"environ.hpp"
+
+1312712351 d:\documents\projet\ubiquit\test map\bullet.hpp
+
+1312822222 d:\documents\projet\ubiquit\test map\playerbody.hpp
+
+1312909491 d:\documents\projet\ubiquit\test map\level.hpp
+	"tile.hpp"
+
+1312907340 d:\documents\projet\ubiquit\test map\tile.hpp
+	"constante.hpp"
+
+1313595932 d:\documents\projet\ubiquit\test map\constante.hpp
+
+1312907539 source:d:\documents\projet\ubiquit\test map\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"level.hpp"
+
+1312904977 source:d:\documents\projet\ubiquit\test map\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"environ.hpp"
+	"level.hpp"
+	"player.hpp"
+
+1312830942 source:d:\documents\projet\ubiquit\test map\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312822185 source:d:\documents\projet\ubiquit\test map\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1312712479 source:d:\documents\projet\ubiquit\test map\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1313759173 d:\documents\projet\ubiquit\current project ubiquit\bar.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<string>
+
+1313758915 source:d:\documents\projet\ubiquit\current project ubiquit\bar.cpp
+	"bar.hpp"
+
+1314957277 source:d:\documents\projet\ubiquit\current project ubiquit\stats.cpp
+	"stats.hpp"
+	"constante.hpp"
+
+1314956951 d:\documents\projet\ubiquit\current project ubiquit\stats.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<string>
+
+1312712479 source:d:\documents\projet\ubiquit\test changer de map\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1313936814 d:\documents\projet\ubiquit\test changer de map\level.hpp
+	"constante.hpp"
+	"world.hpp"
+	"map.hpp"
+	"ressourcesManager.hpp"
+
+1313935378 d:\documents\projet\ubiquit\test changer de map\constante.hpp
+
+1312712351 d:\documents\projet\ubiquit\test changer de map\bullet.hpp
+
+1312822469 source:d:\documents\projet\ubiquit\test changer de map\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312822469 d:\documents\projet\ubiquit\test changer de map\frame.hpp
+
+1313935917 source:d:\documents\projet\ubiquit\test changer de map\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1313935880 d:\documents\projet\ubiquit\test changer de map\player.hpp
+	"bullet.hpp"
+	"playerBody.hpp"
+	"frame.hpp"
+	"stats.hpp"
+
+1313935442 d:\documents\projet\ubiquit\test changer de map\playerbody.hpp
+
+1313763640 d:\documents\projet\ubiquit\test changer de map\stats.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<string>
+
+1313943410 source:d:\documents\projet\ubiquit\test changer de map\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"level.hpp"
+
+1313936850 source:d:\documents\projet\ubiquit\test changer de map\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"player.hpp"
+
+1313935786 source:d:\documents\projet\ubiquit\test changer de map\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1313935146 source:d:\documents\projet\ubiquit\test changer de map\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1313764231 source:d:\documents\projet\ubiquit\test changer de map\stats.cpp
+	"stats.hpp"
+	"constante.hpp"
+
+1313943410 d:\documents\projet\ubiquit\test changer de map\world.hpp
+
+1313933245 d:\documents\projet\ubiquit\test changer de map\map.hpp
+
+1313931243 d:\documents\projet\ubiquit\test changer de map\ressourcesmanager.hpp
+	<iostream>
+	<string>
+	"constante.hpp"
+
+1313933245 source:d:\documents\projet\ubiquit\test changer de map\map.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"map.hpp"
+	"ressourcesManager.hpp"
+
+1313943442 source:d:\documents\projet\ubiquit\test changer de map\world.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"world.hpp"
+	"ressourcesManager.hpp"
+
+1313947433 d:\documents\projet\ubiquit\current project ubiquit\world.hpp
+
+1313964304 d:\documents\projet\ubiquit\current project ubiquit\map.hpp
+
+1314053264 d:\documents\projet\ubiquit\current project ubiquit\ressourcesmanager.hpp
+	<iostream>
+	<string>
+	"constante.hpp"
+
+1314223107 source:d:\documents\projet\ubiquit\current project ubiquit\map.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"map.hpp"
+	"imageManager.hpp"
+
+1314223122 source:d:\documents\projet\ubiquit\current project ubiquit\world.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"world.hpp"
+	"imageManager.hpp"
+
+1315133941 source:d:\documents\projet\ubiquit\current project ubiquit\enemy.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"enemy.hpp"
+	"imageManager.hpp"
+
+1315133941 d:\documents\projet\ubiquit\current project ubiquit\enemy.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"imageManager.hpp"
+	"stats.hpp"
+
+1314222664 d:\documents\projet\ubiquit\current project ubiquit\imagemanager.hpp
+	<iostream>
+	<string>
+	"constante.hpp"
+
+1315132134 source:d:\documents\projet\ubiquit\current project ubiquit\imagemanager.cpp
+	"imageManager.hpp"
+
+1314050699 source:d:\documents\projet\ubiquit\test - horde class\bullet.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"bullet.hpp"
+
+1314221522 d:\documents\projet\ubiquit\test - horde class\level.hpp
+	"constante.hpp"
+	"world.hpp"
+	"map.hpp"
+	"imageManager.hpp"
+
+1315133260 d:\documents\projet\ubiquit\test - horde class\constante.hpp
+	<SFML/Graphics.hpp>
+
+1313947433 d:\documents\projet\ubiquit\test - horde class\world.hpp
+
+1313964304 d:\documents\projet\ubiquit\test - horde class\map.hpp
+
+1314222664 d:\documents\projet\ubiquit\test - horde class\imagemanager.hpp
+	<iostream>
+	<string>
+	"constante.hpp"
+
+1314050699 d:\documents\projet\ubiquit\test - horde class\bullet.hpp
+	"constante.hpp"
+
+1314223192 source:d:\documents\projet\ubiquit\test - horde class\enemy.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"enemy.hpp"
+	"imageManager.hpp"
+
+1314222929 d:\documents\projet\ubiquit\test - horde class\enemy.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"imageManager.hpp"
+	"stats.hpp"
+
+1314956951 d:\documents\projet\ubiquit\test - horde class\stats.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<string>
+
+1312822469 source:d:\documents\projet\ubiquit\test - horde class\frame.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"frame.hpp"
+
+1312822469 d:\documents\projet\ubiquit\test - horde class\frame.hpp
+
+1315133288 source:d:\documents\projet\ubiquit\test - horde class\functions.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"horde.hpp"
+	"level.hpp"
+
+1314015746 d:\documents\projet\ubiquit\test - horde class\player.hpp
+	"bullet.hpp"
+	"playerBody.hpp"
+	"frame.hpp"
+	"stats.hpp"
+
+1314033059 d:\documents\projet\ubiquit\test - horde class\playerbody.hpp
+
+1315132134 source:d:\documents\projet\ubiquit\test - horde class\imagemanager.cpp
+	"imageManager.hpp"
+
+1314221522 source:d:\documents\projet\ubiquit\test - horde class\level.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"level.hpp"
+
+1315133301 source:d:\documents\projet\ubiquit\test - horde class\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"level.hpp"
+	"player.hpp"
+	"horde.hpp"
+
+1314223107 source:d:\documents\projet\ubiquit\test - horde class\map.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"map.hpp"
+	"imageManager.hpp"
+
+1314049304 source:d:\documents\projet\ubiquit\test - horde class\player.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1314033059 source:d:\documents\projet\ubiquit\test - horde class\playerbody.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"player.hpp"
+	"level.hpp"
+
+1314957277 source:d:\documents\projet\ubiquit\test - horde class\stats.cpp
+	"stats.hpp"
+	"constante.hpp"
+
+1314223122 source:d:\documents\projet\ubiquit\test - horde class\world.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	"constante.hpp"
+	"world.hpp"
+	"imageManager.hpp"
+
+1315133369 source:d:\documents\projet\ubiquit\test - horde class\horde.cpp
+	"horde.hpp"
+
+1315133461 d:\documents\projet\ubiquit\test - horde class\horde.hpp
+	<iostream>
+	"constante.hpp"
+	"enemy.hpp"
+
+1315133723 d:\documents\projet\ubiquit\current project ubiquit\horde.hpp
+	<iostream>
+	"constante.hpp"
+	"enemy.hpp"
+
+1315133732 source:d:\documents\projet\ubiquit\current project ubiquit\horde.cpp
+	"horde.hpp"
+

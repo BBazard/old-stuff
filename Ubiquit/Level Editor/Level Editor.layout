@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="RessourcesManager.hpp" open="0" top="0" tabpos="3">
+		<Cursor position="193" topLine="0" />
+	</File>
+	<File name="constantes.hpp" open="1" top="0" tabpos="11">
+		<Cursor position="449" topLine="0" />
+	</File>
+	<File name="interface.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="577" topLine="12" />
+	</File>
+	<File name="interface.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="290" topLine="0" />
+	</File>
+	<File name="levelEditor.cpp" open="1" top="1" tabpos="14">
+		<Cursor position="372" topLine="0" />
+	</File>
+	<File name="levelEditor.hpp" open="1" top="0" tabpos="15">
+		<Cursor position="333" topLine="27" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="57" topLine="0" />
+	</File>
+	<File name="map.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="205" topLine="110" />
+	</File>
+	<File name="map.hpp" open="1" top="0" tabpos="13">
+		<Cursor position="736" topLine="14" />
+	</File>
+	<File name="world.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="5552" topLine="233" />
+	</File>
+	<File name="world.hpp" open="1" top="0" tabpos="17">
+		<Cursor position="915" topLine="22" />
+	</File>
+</CodeBlocks_layout_file>

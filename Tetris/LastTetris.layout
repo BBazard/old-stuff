@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="blit.c" open="1" top="0" tabpos="2">
+		<Cursor position="329" topLine="0" />
+	</File>
+	<File name="collide.c" open="0" top="0" tabpos="3">
+		<Cursor position="102" topLine="76" />
+	</File>
+	<File name="constants.h" open="1" top="0" tabpos="4">
+		<Cursor position="971" topLine="26" />
+	</File>
+	<File name="event.c" open="1" top="1" tabpos="5">
+		<Cursor position="2319" topLine="31" />
+	</File>
+	<File name="functions.h" open="1" top="0" tabpos="3">
+		<Cursor position="869" topLine="10" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="155" topLine="0" />
+	</File>
+	<File name="piece.c" open="0" top="0" tabpos="5">
+		<Cursor position="816" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
