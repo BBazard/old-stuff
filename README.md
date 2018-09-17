@@ -1,5 +1,5 @@
 # old-stuff
-Old video-games I coded 4 years ago. All three are playable (or were at the time anyway).
+Old video-games I coded back in 2011. All three are playable (or were at the time anyway).
 
 Tetris : C and SDL (complete without score)
 
